@@ -1,0 +1,32 @@
+div{
+	font-family:verdana;
+	font-size:20pt;
+	color:#006400;
+	}
+	
+	#topo{
+		text-align: center;
+	}
+	ul li{
+		display: inline;
+		}
+	a{
+		background-color: MediumSeaGreen;
+		color: white;
+		padding: 20px 100px;
+		text-decoration: none;		
+		}
+	a:hover{
+		background-color: SlateBlue
+	}
+	
+	#menu{
+		text-align: center;
+	}
+	   
+
+	
+	
+}
+	
+	
